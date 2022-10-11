@@ -5,4 +5,6 @@
 - CSS - Linguagem para estilizar.
 - JavaScript - Linguagem de programação
 
-- outros informativos em andamento 
+### Outros informativos em andamento 
+
+trecho para explicar as características principais
